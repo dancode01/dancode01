@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Daniel!
+## 🧡 Olá, meu nome é Daniel!
 
 Sou um Desenvolvedor Frontend apaixonado por criar experiências digitais incríveis. Trabalho principalmente com **JavaScript** e **React**, sempre em busca de inovações que encantem os usuários. Sou um amante de café e gosto de explorar culturas diferentes.
 
